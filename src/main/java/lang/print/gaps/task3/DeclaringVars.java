@@ -6,9 +6,7 @@ public class DeclaringVars {
         int b;
         int c;
         
-        a = 10;
-        b = 10;
-        c = 10;
+        a = 10;b = 10;c = 10;
         
         System.out.println(c);
     
